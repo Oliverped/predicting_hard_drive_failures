@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#tar -xvf 2013_ST4000DM000.tar.gz -O | grep ST4000DM000 > 2013_ST4000DM000_test.csv
-
 Files=($(ls *.tar.gz))
 
 echo $val1
